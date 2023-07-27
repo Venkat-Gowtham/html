@@ -1,0 +1,13 @@
+.bg{
+/*	background-image:conic-gradient(red,lightcyan,bisque);*/
+	background-image:linear-gradient(slateblue,lightcyan,bisque);
+/*	background-image:radial-gradient(red,lightcyan,bisque);*/
+	background-color: blueviolet;
+}
+.size{
+	font-size: xx-large;
+}
+.spacing{
+	padding-left: 50px;
+	word-spacing: 250px;
+}
